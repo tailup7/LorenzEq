@@ -8,7 +8,7 @@ This equation has chaotic solutions, as shown in the animation below. This “un
 After the discovery of this equation, researches of nonlinearities and chaos have begun. <br>
 <br>
 
-<img src="https://github.com/user-attachments/assets/0364bfab-1edd-434d-8288-2a03eb0c68a6" width="500" height="400"/>
+<img src="https://github.com/user-attachments/assets/0364bfab-1edd-434d-8288-2a03eb0c68a6" width="750" height="600"/>
 
 <br>
 
