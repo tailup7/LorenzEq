@@ -5,7 +5,7 @@ The Lorenz equations are a series of nonlinear ordinary differential equations a
 ![aa](https://github.com/user-attachments/assets/9d05f1d7-a835-4398-966c-582c208bac43)
 
 This equation has chaotic solutions, as shown in the animation below. This “unpredictable” phenomenon is caused by nonlinear term.
-After the discovery of this equation, researches of nonlinearities and chaos have begun. <br>
+After the discovery of this equation, researches of nonlinearities and chaos have begun. 
 <br>
 
 <img src="https://github.com/user-attachments/assets/0364bfab-1edd-434d-8288-2a03eb0c68a6" width="750" height="600"/>
