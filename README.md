@@ -8,6 +8,8 @@ This equation has chaotic solutions for specific parameter values(σ, ρ) and in
 After the discovery of this equation, researches of nonlinearities and chaos have begun. <br>
 <br>
 ![lorenz_solutions (2)](https://github.com/user-attachments/assets/0364bfab-1edd-434d-8288-2a03eb0c68a6)
+<br>
+![compare_initial](https://github.com/user-attachments/assets/88fbbabe-6ff8-4f47-836c-402da4a17dc5)
 
 Navier-Stokes equation, which is the governnig equation of flow field, also have nonliner term, and that's why prediction of flow field is so difficult.
 
