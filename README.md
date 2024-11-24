@@ -19,6 +19,7 @@ As the figure below shows, chaotic solution has sensitivity to initial condition
 <img src="https://github.com/user-attachments/assets/88fbbabe-6ff8-4f47-836c-402da4a17dc5" width="600" height="360"/>
 
 <br>
+<br>
 
 Navier-Stokes equation, which is the governnig equation of flow field, also have nonliner term, and that's why prediction of flow field is so difficult.
 
